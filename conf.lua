@@ -4,4 +4,5 @@ function love.conf(t)
 	t.modules.mouse = true
 	t.window.x = nil
     t.window.y = nil 
+	t.window.icon = 'libs/favicon.png'
 end
